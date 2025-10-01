@@ -42,7 +42,7 @@ const midias = [
   { id: 36, titulo: "Star Wars", sinopse: "", imagem: "StarWarsVI.webp", trailer: '1GjZ0m_mKmM', categoria: "Empolgantes" },
   { id: 37, titulo: "Karate Kid", sinopse: "", imagem: "KarateKid.webp", trailer: 'r_8Rw16uscg', categoria: "Empolgantes" },
   { id: 38, titulo: "Star Trek", sinopse: "", imagem: "StarTrekV.webp", trailer: '7S5TDrAWBd8', categoria: "Empolgantes" },
-  { id: 46, titulo: "Interestelar", sinopse: "", imagem: "Interestelar.webp", trailer: 'mbbPSq63yuM', categoria: "Empolgantes" },
+  { id: 47, titulo: "Interestelar", sinopse: "", imagem: "Interestelar.webp", trailer: 'mbbPSq63yuM', categoria: "Empolgantes" },
 
   { id: 39, titulo: "Orgulho e Preconceito", sinopse: "", imagem: "OrgulhoEPreconceito.webp", trailer: 'Y6XneqkfD3c', categoria: "Romance e Não Ficção" },
   { id: 40, titulo: "A Cruzada", sinopse: "", imagem: "Cruzada.webp", trailer: 'sc7lzQQeGVI', categoria: "Romance e Não Ficção" },

@@ -42,16 +42,6 @@ function mostrarVideo(event, mostrar) {
 
 } 
 
-
-
-
-
-
-
-
-
-
-
 /* Função para mostrar o trailer 
 function mostrarVideo(event, mostrar){
     //Obtendo o evento
